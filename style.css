@@ -3,6 +3,10 @@ h1 {
   background-color: #1a681;
   }
 .title{
-  background-color: blue;
+  background-color: cornflowerblue;
 }
 
+#profile-picture{
+  width: 500px;
+  
+}
